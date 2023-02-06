@@ -1,0 +1,10 @@
+C:\Users\weileng\Desktop\study\Youtube\IAmTimCorey\ExceptionsDemo\ExceptionsDemo\bin\Debug\ExceptionsDemo.exe.config
+C:\Users\weileng\Desktop\study\Youtube\IAmTimCorey\ExceptionsDemo\ExceptionsDemo\bin\Debug\ExceptionsDemo.exe
+C:\Users\weileng\Desktop\study\Youtube\IAmTimCorey\ExceptionsDemo\ExceptionsDemo\bin\Debug\ExceptionsDemo.pdb
+C:\Users\weileng\Desktop\study\Youtube\IAmTimCorey\ExceptionsDemo\ExceptionsDemo\bin\Debug\ExceptionsLibrary.dll
+C:\Users\weileng\Desktop\study\Youtube\IAmTimCorey\ExceptionsDemo\ExceptionsDemo\bin\Debug\ExceptionsLibrary.pdb
+C:\Users\weileng\Desktop\study\Youtube\IAmTimCorey\ExceptionsDemo\ExceptionsDemo\obj\Debug\ExceptionsDemo.csproj.AssemblyReference.cache
+C:\Users\weileng\Desktop\study\Youtube\IAmTimCorey\ExceptionsDemo\ExceptionsDemo\obj\Debug\ExceptionsDemo.csproj.CoreCompileInputs.cache
+C:\Users\weileng\Desktop\study\Youtube\IAmTimCorey\ExceptionsDemo\ExceptionsDemo\obj\Debug\ExceptionsDemo.csproj.CopyComplete
+C:\Users\weileng\Desktop\study\Youtube\IAmTimCorey\ExceptionsDemo\ExceptionsDemo\obj\Debug\ExceptionsDemo.exe
+C:\Users\weileng\Desktop\study\Youtube\IAmTimCorey\ExceptionsDemo\ExceptionsDemo\obj\Debug\ExceptionsDemo.pdb

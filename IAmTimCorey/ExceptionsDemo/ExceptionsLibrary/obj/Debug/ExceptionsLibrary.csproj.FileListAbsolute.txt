@@ -1,0 +1,6 @@
+C:\Users\weileng\Desktop\study\Youtube\IAmTimCorey\ExceptionsDemo\ExceptionsLibrary\bin\Debug\ExceptionsLibrary.dll
+C:\Users\weileng\Desktop\study\Youtube\IAmTimCorey\ExceptionsDemo\ExceptionsLibrary\bin\Debug\ExceptionsLibrary.pdb
+C:\Users\weileng\Desktop\study\Youtube\IAmTimCorey\ExceptionsDemo\ExceptionsLibrary\obj\Debug\ExceptionsLibrary.csproj.AssemblyReference.cache
+C:\Users\weileng\Desktop\study\Youtube\IAmTimCorey\ExceptionsDemo\ExceptionsLibrary\obj\Debug\ExceptionsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\weileng\Desktop\study\Youtube\IAmTimCorey\ExceptionsDemo\ExceptionsLibrary\obj\Debug\ExceptionsLibrary.dll
+C:\Users\weileng\Desktop\study\Youtube\IAmTimCorey\ExceptionsDemo\ExceptionsLibrary\obj\Debug\ExceptionsLibrary.pdb
